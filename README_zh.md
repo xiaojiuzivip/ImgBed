@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/MarSeventh/CloudFlare-ImgBed">
+    <a href="https://github.com/xiaojiuzivip/ImgBed">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="readme/animated-banner-dark.apng" />
             <source media="(prefers-color-scheme: light)" srcset="readme/animated-banner-light.apng" />
@@ -8,14 +8,14 @@
     </a>
     <p><em>🗂️ 打破图床边界，构建你的专属开源文件托管引擎。</em></p>
     <p>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README_zh.md">简体中文</a> &nbsp;·&nbsp; <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README.md">English</a> &nbsp;·&nbsp; <a href="https://cfbed.sanyue.de">官方网站</a> &nbsp;·&nbsp; <a href="https://t.me/sanyue_club">Telegram 频道</a> &nbsp;·&nbsp; <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/discussions/categories/announcements">公告</a>
+        <a href="https://github.com/xiaojiuzivip/ImgBed/blob/main/README_zh.md">简体中文</a> &nbsp;·&nbsp; <a href="https://github.com/xiaojiuzivip/ImgBed/blob/main/README.md">English</a> &nbsp;·&nbsp; <a href="https://cfbed.sanyue.de">官方网站</a> &nbsp;·&nbsp; <a href="https://t.me/sanyue_club">Telegram 频道</a> &nbsp;·&nbsp; <a href="https://github.com/xiaojiuzivip/ImgBed/discussions/categories/announcements">公告</a>
     </p>
     <p align="center">
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/LICENSE"><img src="https://img.shields.io/github/license/MarSeventh/CloudFlare-ImgBed" alt="License" /></a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/releases"><img src="https://img.shields.io/github/release/MarSeventh/CloudFlare-ImgBed" alt="latest version" /></a>
+        <a href="https://github.com/xiaojiuzivip/ImgBed/blob/main/LICENSE"><img src="https://img.shields.io/github/license/MarSeventh/CloudFlare-ImgBed" alt="License" /></a>
+        <a href="https://github.com/xiaojiuzivip/ImgBed/releases"><img src="https://img.shields.io/github/release/MarSeventh/CloudFlare-ImgBed" alt="latest version" /></a>
         <a href="https://hub.docker.com/r/marseventh/cloudflare-imgbed"><img src="https://img.shields.io/docker/pulls/marseventh/cloudflare-imgbed" alt="Docker Pulls" /></a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/stargazers"><img src="https://img.shields.io/github/stars/MarSeventh/CloudFlare-ImgBed" alt="Stars" /></a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/network/members"><img src="https://img.shields.io/github/forks/MarSeventh/CloudFlare-ImgBed" alt="Forks" /></a>
+        <a href="https://github.com/xiaojiuzivip/ImgBed/stargazers"><img src="https://img.shields.io/github/stars/MarSeventh/CloudFlare-ImgBed" alt="Stars" /></a>
+        <a href="https://github.com/xiaojiuzivip/ImgBed/network/members"><img src="https://img.shields.io/github/forks/MarSeventh/CloudFlare-ImgBed" alt="Forks" /></a>
         <a href="https://t.me/sanyue_club"><img src="https://img.shields.io/badge/-Sanyue-26A5E4?logo=telegram&logoColor=white" alt="Telegram Sanyue" /></a>
     </p>
     <p align="center">
@@ -144,7 +144,7 @@ https://github.com/user-attachments/assets/5de3b74c-7d55-44f0-834e-0728e4c3e873
 - **AI 智能体应用**：项目官方 Skill 及相关工具
 - **优质的教程内容**：内容创作者分享的优质视频和图文教程
 
-您也可以向社区分享自己的作品，提交规范请参见[生态建设征集令](https://github.com/MarSeventh/CloudFlare-ImgBed/discussions/606)，期待您的参与！
+您也可以向社区分享自己的作品，提交规范请参见[生态建设征集令](https://github.com/xiaojiuzivip/ImgBed/discussions/606)，期待您的参与！
 
 # 5. 💝 支持与赞助
 
@@ -172,13 +172,13 @@ https://github.com/user-attachments/assets/5de3b74c-7d55-44f0-834e-0728e4c3e873
 
 参与前请阅读[贡献指南](CONTRIBUTING.md)（英文），了解仓库分工、PR 目标分支、代码约定和验证要求。
 
-[![贡献者](https://contrib.rocks/image?repo=Marseventh/Cloudflare-ImgBed)](https://github.com/MarSeventh/CloudFlare-ImgBed/graphs/contributors)
+[![贡献者](https://contrib.rocks/image?repo=Marseventh/Cloudflare-ImgBed)](https://github.com/xiaojiuzivip/ImgBed/graphs/contributors)
 
 ## ⭐ Star 趋势
 
 **如果这个项目对您有所帮助，欢迎点亮一个 Star ⭐，感谢您的支持！**
 
-<a href="https://github.com/MarSeventh/CloudFlare-ImgBed">
+<a href="https://github.com/xiaojiuzivip/ImgBed">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=marseventh%2Fcloudflare-imgbed%2Cmarseventh/sanyue-imghub&amp;type=Date&amp;theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=marseventh%2Fcloudflare-imgbed%2Cmarseventh/sanyue-imghub&amp;type=Date" />
@@ -195,8 +195,8 @@ https://github.com/user-attachments/assets/5de3b74c-7d55-44f0-834e-0728e4c3e873
 
 ## 🔗 相关开源项目
 
-- **Web 前端**：[MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub)
-- **桌面客户端**：[MarSeventh/satellite](https://github.com/MarSeventh/satellite)
+- **Web 前端**：[MarSeventh/Sanyue-ImgHub](https://github.com/xiaojiuzivip/Sanyue-ImgHub)
+- **桌面客户端**：[MarSeventh/satellite](https://github.com/xiaojiuzivip/satellite)
 - **上游项目**：[cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)
 
 CloudFlare ImgBed 由 Telegraph-Image 发展而来，感谢原项目作者及所有贡献者。

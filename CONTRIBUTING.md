@@ -8,9 +8,9 @@ Submit source changes to the repository responsible for the feature:
 
 | Repository | Scope | PR target |
 | --- | --- | --- |
-| [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | Backend APIs, uploads, file access, storage channels, authentication, database adapters and Pages/Workers/Docker deployment | `dev` |
-| [Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub) | Vue UI, interactions, state management, localization, frontend tests and builds | `dev` |
-| [CloudFlare-ImgBed-Docs](https://github.com/MarSeventh/CloudFlare-ImgBed-Docs) | VitePress user documentation, deployment guides, API documentation and FAQs | `main` |
+| [CloudFlare-ImgBed](https://github.com/xiaojiuzivip/ImgBed) | Backend APIs, uploads, file access, storage channels, authentication, database adapters and Pages/Workers/Docker deployment | `dev` |
+| [Sanyue-ImgHub](https://github.com/xiaojiuzivip/Sanyue-ImgHub) | Vue UI, interactions, state management, localization, frontend tests and builds | `dev` |
+| [CloudFlare-ImgBed-Docs](https://github.com/xiaojiuzivip/ImgBed-Docs) | VitePress user documentation, deployment guides, API documentation and FAQs | `main` |
 
 - The main repository uses `main` for releases. The frontend's default branch is `master`, but feature and bug-fix PRs still target `dev`.
 - Unless a maintainer requests otherwise, create your working branch from the relevant PR target. Avoid including unrelated differences from release branches.
@@ -71,7 +71,7 @@ npm test
 npm run build
 ```
 
-- See the frontend's [test/README.md](https://github.com/MarSeventh/Sanyue-ImgHub/blob/dev/test/README.md) for test scope and maintenance requirements.
+- See the frontend's [test/README.md](https://github.com/xiaojiuzivip/Sanyue-ImgHub/blob/dev/test/README.md) for test scope and maintenance requirements.
 - For UI changes, include useful screenshots or recordings and describe the key interactions and supported devices checked.
 - Reuse existing components, themes, state management and localization. Update relevant language resources when changing user-facing text; identify incomplete translations in the PR.
 
